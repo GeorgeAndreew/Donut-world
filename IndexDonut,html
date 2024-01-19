@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='ru'>
+<head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Магазин пончиков</title>
+</head>
+<style>
+h1{
+    position:absolute;
+    display:flex;
+    justify-content:center;
+    align-items:top;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+}
+div{
+    position:absolute;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+}
+
+</style>
+<body>
+
+    <h1>Мир пончиков</h1>
+    <div>
+        <img src="/uploads/2023/02/donut.png">
+    </div>
+</body>
+</html>
